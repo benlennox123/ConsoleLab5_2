@@ -10,7 +10,7 @@ namespace ConsoleLab5_1
     {
         static void Main(string[] args)
         {
-            int n = 15;
+            const int n = 15;
             int[] array = new int[n];
             Random random = new Random();
             int t = 1;
